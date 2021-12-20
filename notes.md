@@ -28,3 +28,11 @@ var animalArrayOfObjects = [
         "species": "Cat"
     }
 ]
+
+
+## For loops
+
+for (var i= 0; i < animalArray.length; i++) {
+    // enter action/instruxctions here
+    console.log(animalArray[i])
+}
